@@ -16,6 +16,6 @@
     }
   },
   "require": {
-    "chent/mphp": "@dev-master"
+    "chent/mphp": "@dev"
   }
 }
