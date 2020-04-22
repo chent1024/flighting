@@ -1,0 +1,20 @@
+{
+  "name": "chent/flighting",
+  "description": "基于flight魔改框架的骨架.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ct",
+      "email": "emailctao@163.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "chent/mphp": "@dev"
+  }
+}
