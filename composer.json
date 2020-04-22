@@ -3,6 +3,7 @@
   "description": "基于flight魔改框架的骨架.",
   "minimum-stability": "stable",
   "license": "MIT",
+  "type": "project",
   "authors": [
     {
       "name": "ct",
@@ -15,6 +16,6 @@
     }
   },
   "require": {
-    "chent/mphp": "@dev"
+    "chent/mphp": "@master"
   }
 }
